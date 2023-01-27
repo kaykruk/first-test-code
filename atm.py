@@ -1,10 +1,11 @@
+#my first ever code
 import time
 
 user = ['Emeka', 'Norah', 'KRUK', 'Chisom']
 atm_pin = [1234, 1010, 1357, 2468]
 acc_balance = [30000, 15000, 40000, 6000]
 trials = 3
-print('Welcome to KRUK Bank')
+print('Welcome to snowy Bank')
 time.sleep(1)
 atm = input('Please insert your ATM card...')
 pin = int(input('Please enter your 4 digit pin: '))
